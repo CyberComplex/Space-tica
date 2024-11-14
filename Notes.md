@@ -75,6 +75,7 @@ Tasks:
     - Add WMS requests for NDVI and FCIR  - Rich
     - Get planetscope when available - 
     - Build/download mosaic image with least cloud cover over 3(?) months - Rich 
+    - break dominica down into 2500x2500 pixels at 10m then get a mosaic of each area 
     - Get data from after event - Rich
     - Overlay bridge data onto imagery - Aaron
     - Filter bridge data to remove bridges that are not visible in imagery - Aaron
