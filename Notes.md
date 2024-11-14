@@ -70,3 +70,13 @@ Potential issues:
 
 filter of bridges near rivers and roads
 data tiled up and bridges rotated and flipped, change the contrast. make sure number of pictures with bridges and without in data set is equal. 
+
+Tasks:
+    - Add WMS requests for NDVI and FCIR  - Rich
+    - Get planetscope when available - 
+    - Build/download mosaic image with least cloud cover over 3(?) months - Rich 
+    - Get data from after event - Rich
+    - Overlay bridge data onto imagery - Aaron
+    - Filter bridge data to remove bridges that are not visible in imagery - Aaron
+    - Break down imagery into tiles of ?km^2 - 
+    - 
